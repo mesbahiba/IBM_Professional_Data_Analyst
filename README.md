@@ -22,6 +22,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 
  
 - [x] [__Excel Basics for Data Analysis__]
+ 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
 
 - [X] [__Data Visualization and Dashboards with Excel and Cognos__ ]
@@ -30,6 +31,7 @@ This course covers some of the first steps in the development of data visualizat
 
 
 - [x] [__Python for Data Science and AI__]
+ 
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
 
@@ -61,6 +63,7 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
 
 - [x] [__IBM Data Analyst Capstone Project__]
+ 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
 
