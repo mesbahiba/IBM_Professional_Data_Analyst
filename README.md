@@ -2,6 +2,8 @@
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/mesbahiba?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/mesbahiba) 
 
+# IBM Data Analyst Professional <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+
 ## 📍 About this Professional Certificate
 I gained the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and positioned myself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
 
